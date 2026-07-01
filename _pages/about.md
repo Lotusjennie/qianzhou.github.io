@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "SAVAGE Lab‘s Homepage"
+title: "Qian Zhou（周倩）"
 author_profile: true
 redirect_from: 
   - /about/
