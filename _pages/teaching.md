@@ -4,8 +4,5 @@ title: "Teaching"
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Spring: *Advanced Topics in Information Security* (in English)
+- Fall: *Network Security Technology* (Bilingual)
